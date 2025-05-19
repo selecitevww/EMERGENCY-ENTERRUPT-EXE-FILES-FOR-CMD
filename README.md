@@ -14,7 +14,9 @@ FOR EXAMPLE:
 > set /p ffindpath=
 > 
 > taskkill /IM "%ddisk%%ffindpath%" /F
-> 
+>
+> cls
+>
 > pause
 > 
 > goto loop
