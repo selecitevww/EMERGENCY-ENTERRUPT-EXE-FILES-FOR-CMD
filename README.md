@@ -12,7 +12,8 @@ FOR EXAMPLE:
 > :loop
 > 
 > ECHO ИМЯ ПРОЦЕССА
-> set /p ffindpath=
+>
+>  set /p ffindpath=
 > 
 > taskkill /IM "%ddisk%%ffindpath%" /F
 >
