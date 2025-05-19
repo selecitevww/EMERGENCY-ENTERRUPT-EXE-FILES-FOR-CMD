@@ -10,6 +10,7 @@ FOR EXAMPLE:
 > color B
 > 
 > :loop
+> 
 > ECHO ИМЯ ПРОЦЕССА
 > set /p ffindpath=
 > 
